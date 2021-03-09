@@ -1,0 +1,213 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+div
+{
+  margin: 30px;
+  padding: 0;
+width: 100%;
+border-radius: 10%;
+}
+
+body
+{
+background-image: url(image/images.png);
+color: lightgray;
+margin: 5px;
+}
+#main
+ {
+  width :100%;
+background-image: url(image/images.png);
+margin: 30px auto ;
+
+}
+header
+{
+	background-color: white;
+	padding:10px ;
+	width: 100%;
+	margin: 0px;
+	border-radius: 10% 10% 0% 0%;
+	
+}
+
+header img
+{
+	width: 150px;
+ padding: 10px;
+ margin: 5px;
+ border-radius: 50%;
+
+}
+header a
+{
+	color: black;
+	font-size:40px;
+	font-family: Goudy Stout;
+	text-decoration: none;
+	margin: 0px;
+}
+header nav ul li a
+{
+	border:2px ;
+	float: left;
+	background-color: #996600;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 80%;
+
+}
+header ul li
+{
+
+  list-style-type: none ;
+	display: inline-block;
+}
+header ul ul li
+{
+	display: inline-block;
+}
+
+#search ul li
+{
+	margin: 10px;
+}
+
+#search 
+{
+	padding: 0px;
+	float:right;
+
+}
+
+
+#content
+{
+width: 100%;
+margin: 0px;
+padding: 10px;
+border-radius: 0% 0% 0% 0%;
+background-color: grey;
+
+
+	/*background-color: #7a7a52;*/
+}
+
+
+
+
+#content ul li
+{
+	width: 0%;
+display: inline-block;
+background-color: grey;
+color: white;
+
+}
+#footer ul li
+{
+	 list-style-type: none ;
+	display: inline-block;
+	background-color: #666633;
+	border-radius: 50%;
+	margin: 20px;
+	padding: 20px;
+
+
+}
+
+#footer
+{
+background-color: #996600;
+border-style: none;
+margin: 0px;
+color: black;
+font-family: Cooper Black;
+padding: 10px;
+font-size: 30px;
+width: 100%;
+
+border-radius: 0% 0% 0% 0%;
+}
+
+________________________-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>geeky</title>
+	<link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	<link rel="stylesheet" type="text/css" href="salamah.css">
+</head>
+<body >
+<div id="main">
+
+<header>
+	<img src="image\image1.png"><a href="#html.html">geeky</a>
+  <ul>
+  <li>
+<nav>
+<ul>
+	<li><a href="">·—∆”Ì…</a></li>
+	<li><a href="">„ﬁ«·« </a></li>
+	<li><a href="">«Œ»«—</a></li>
+    <li><a href="">√—«¡Ê„‰«ﬁ‘« </li></a>
+    <li><a href=""> Ê«’·</li></a>
+  </ul>
+  </nav>
+  </li>
+  <li id="search">
+    <ul>
+    	<li> <a href="https://www.facebook.com"><i class="fa fa-heart fa-2x"></a></i>
+    	<li ><a href="https://www.facebook.com"><i class="fa fa-skype fa-2x"></a></i>
+
+    	<li> <a href="https://www.facebook.com"><i class="fa fa-search fa-2x"></a></i>
+
+    </ul><li>
+</ul>
+
+
+
+</header>
+<div id="content">
+<ul>
+<li><div> 
+<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>errrrrrrrrrrrrrrrrrrrrrrrrrsffffffffffffffffffffffffffffds<br><br><br><br><br><br></div>
+
+<li><div><br>dssssssssssssssssssssssssssssssssssssssssssssssssssssss<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br> </div></ul>
+</div>
+
+<div id="footer">
+copyright ©Salamh saleh -2018 
+
+	<ul>
+      <li> <a href="https://www.facebook.com"><i class="fa fa-facebook fa-2x"></a></i>
+      <li ><a href="https://www.twitter.com"><i class="fa fa-twitter fa-2x"></a></i>
+
+      <li> <a href="https://www.email.com"><i class="fa fa-instagram fa-2x"></a></i>
+      <li> <a href="https://www.gmail.com"><i class="fa fa-skype fa-2x"></a></i>
+      <li ><a href="https://www.youtube.com"><i class="fa fa-google-plus fa-2x"></a></i>
+<br>
+      <li> <a href="https://www.email.com"><i class="fa fa-whatsapp fa-2x"></a></i>
+      <li> <a href="https://www.gmail.com"><i class="fa fa-yahoo fa-2x"></a></i>
+    
+      <li> <a href="https://www.email.com"><i class="fa fa-dropbox fa-2x"></a></i>
+      
+     
+
+
+
+ 
+</div>
+</div>
+
+</body>
+</html>
+_
+
+
+#ffcccc
